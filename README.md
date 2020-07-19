@@ -60,7 +60,7 @@ Feel free to mail me for any doubts/query ✉️ aparajitad60@gmail.com
                      - [Instagram](https://www.instagram.com/aparajita.das/)
                      
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/AadityaSapateTSF) 
 
 ## 👀License
 
